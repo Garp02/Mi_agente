@@ -1,0 +1,4 @@
+# Requiere Python 3.10 o superior.
+# Verificado con google-genai 2.19.0 (agosto 2026).
+google-genai>=2.19.0
+python-dotenv>=1.0.0
